@@ -22,6 +22,7 @@ function fibsRec(run) {
         return fib_seq
     }
 }
+
 console.log(fib(8));
 
 console.log(fibsRec(8));
